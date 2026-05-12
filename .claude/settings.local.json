@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(csc \"E:\\\\IcewindDale2\\\\WildernessEncounters.cs\" -out:\"E:\\\\IcewindDale2\\\\WildernessEncounters.exe\" 2>&1)"
+    ]
+  }
+}
